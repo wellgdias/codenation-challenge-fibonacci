@@ -8,5 +8,6 @@ Caso o número recebido por parâmetro esteja entre os números da sequência de
 > A série de Fibonacci é a seguinte: 0, 1, 1, 2, 3, 5, 8, 13, etc...
 
 **Testes:**
+
 ![fibonacci](https://user-images.githubusercontent.com/47192417/80157898-97b80280-859d-11ea-8fa8-07a2b75b49fd.png)
 
