@@ -1,12 +1,9 @@
 "use strict";
 
-const fibonacci = () => {
-  const sequence = [0, 1];
-  const maxValue = 350;
-
+const fibonacci = (maxValue = 350) => {
+  const sequence = [0, 1];  
   while (sequence[sequence.length - 1] <= maxValue) {
-    sequence.push(sequence[sequence.length - 1] + sequence[sequence.length - 2]
-    );
+    sequence.push(sequence[sequence.length - 1] + sequence[sequence.length - 2]);
   }
 
   return sequence;
