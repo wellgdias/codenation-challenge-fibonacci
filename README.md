@@ -1,7 +1,7 @@
 # Desafio Fibonacci usando NodeJS - Codenation
 
 ## Objetivo: 
-Criar um algoritmo com um método `"fibonacci"` que retorne um `Array` com os primeiros números de série de *fibonacci* até passar de *350*.
+Criar um algoritmo com um método `"fibonacci"` que retorne um `Array` com os primeiros números da série de *fibonacci* até passar de *350*.
 O algoritmo deve possuir um segundo método `"isFibonacci"` que recebe um `Number` como parâmetro e retorne `Boolean`.
 Caso o número recebido por parâmetro esteja entre os números da sequência de *fibonacci* do `"fibonacci"` retorne `true`, senão, `false`.
 
